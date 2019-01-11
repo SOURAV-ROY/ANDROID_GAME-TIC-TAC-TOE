@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sourav.sourav.MainActivity" >
+
+    <!--<item-->
+        <!--android:id="@+id/mail"-->
+        <!--android:enabled="false"-->
+        <!--android:icon="@android:drawable/ic_dialog_email"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="Mail"-->
+        <!--app:showAsAction="always" />-->
+
+    <item
+        android:id="@+id/about"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/settings"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />
+</menu>

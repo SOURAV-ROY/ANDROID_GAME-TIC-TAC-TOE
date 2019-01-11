@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257274119125",
+    "project_id": "androidsouravlogin-176521"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257274119125:android:86575cfe38f45b42",
+        "android_client_info": {
+          "package_name": "com.example.sourav.sourav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257274119125-8r34f8vcsar6inrpriua9mshm755rtvp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "257274119125-edhvu6jq21aaufdansbjb737h48dsj56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sourav.sourav",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1Ft_cC8eeY3toY7Q7MJHzl6ve6YdfGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
